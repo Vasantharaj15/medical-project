@@ -1,0 +1,6 @@
+{
+  "name": "MediToken - Hospital Token & Appointment Management System",
+  "description": "Real-time hospital token queue, patient portal, doctor caller console, admin analytics, and live TV waiting display.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
